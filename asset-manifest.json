@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React_loader/static/css/main.3c12f536.chunk.css",
+    "main.js": "/React_loader/static/js/main.7b681667.chunk.js",
+    "main.js.map": "/React_loader/static/js/main.7b681667.chunk.js.map",
+    "runtime-main.js": "/React_loader/static/js/runtime-main.05462416.js",
+    "runtime-main.js.map": "/React_loader/static/js/runtime-main.05462416.js.map",
+    "static/js/2.5da1b3fa.chunk.js": "/React_loader/static/js/2.5da1b3fa.chunk.js",
+    "static/js/2.5da1b3fa.chunk.js.map": "/React_loader/static/js/2.5da1b3fa.chunk.js.map",
+    "index.html": "/React_loader/index.html",
+    "precache-manifest.f4732421a671941ca6ff3387ce155832.js": "/React_loader/precache-manifest.f4732421a671941ca6ff3387ce155832.js",
+    "service-worker.js": "/React_loader/service-worker.js",
+    "static/css/main.3c12f536.chunk.css.map": "/React_loader/static/css/main.3c12f536.chunk.css.map",
+    "static/js/2.5da1b3fa.chunk.js.LICENSE.txt": "/React_loader/static/js/2.5da1b3fa.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/React_loader/static/media/bg.8d4a71ba.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05462416.js",
+    "static/js/2.5da1b3fa.chunk.js",
+    "static/css/main.3c12f536.chunk.css",
+    "static/js/main.7b681667.chunk.js"
+  ]
+}
